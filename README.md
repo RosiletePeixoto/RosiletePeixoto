@@ -1,5 +1,5 @@
 - 👋 Olá desenvolvedores, meu nome é Rosilete Peixoto...
 - 👀 Eu estou interessada em temas relacionado a Arquitetura de Software e Soluções.
 - 🌱 Atualmente eu estou estudando sobre Plataformas e todo o contexto de desenvolvimento e implantação.
-- 💞️ Eu quero colaborar e também ajudar os entusiastas do assunto.
+- 💞️ Eu quero colaborar colaborar com os entusiastas do assunto.
 - 📫 Você pode me encontrar no linkedin em: https://www.linkedin.com/in/rosiletepeixoto/
